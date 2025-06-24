@@ -1,4 +1,4 @@
-```markdown
+
 # 리눅스의 top, ps, jobs, kill 명령어 정리
 
 리눅스에서 프로세스와 작업을 관리할 때 자주 사용하는 **top, ps, jobs, kill** 명령어에 대해 정리한 자료입니다.
